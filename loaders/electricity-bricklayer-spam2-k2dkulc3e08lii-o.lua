@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/electricity-bricklayer-spam2-k2dkulc3e08lii.lua"))()
