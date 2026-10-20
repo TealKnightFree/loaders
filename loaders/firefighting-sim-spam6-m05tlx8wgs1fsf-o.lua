@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/firefighting-sim-spam6-m05tlx8wgs1fsf.lua"))()
