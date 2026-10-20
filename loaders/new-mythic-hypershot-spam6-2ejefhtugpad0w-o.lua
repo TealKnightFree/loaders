@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/new-mythic-hypershot-spam6-2ejefhtugpad0w.lua"))()
