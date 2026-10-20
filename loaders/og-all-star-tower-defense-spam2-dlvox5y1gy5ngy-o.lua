@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/og-all-star-tower-defense-spam2-dlvox5y1gy5ngy.lua"))()
