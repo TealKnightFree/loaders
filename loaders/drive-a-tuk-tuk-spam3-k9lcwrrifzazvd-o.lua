@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/drive-a-tuk-tuk-spam3-k9lcwrrifzazvd.lua"))()
