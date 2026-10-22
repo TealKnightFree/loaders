@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/car-driving-indonesia-spam6-6uaq4qxfjoy4tn.lua"))()
