@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/rivals-spam0-v97mx1g8ku2yl1.lua"))()
