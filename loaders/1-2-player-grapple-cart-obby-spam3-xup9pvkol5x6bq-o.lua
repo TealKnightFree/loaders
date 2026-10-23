@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/1-2-player-grapple-cart-obby-spam3-xup9pvkol5x6bq.lua"))()
