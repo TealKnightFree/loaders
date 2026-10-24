@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/bunker-vs-verity-spam5-gtj9qliwm5yvdy.lua"))()
