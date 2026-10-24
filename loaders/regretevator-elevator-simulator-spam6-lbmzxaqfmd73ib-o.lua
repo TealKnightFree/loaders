@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/regretevator-elevator-simulator-spam6-lbmzxaqfmd73ib.lua"))()
