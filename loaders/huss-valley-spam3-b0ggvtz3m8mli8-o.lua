@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/huss-valley-spam3-b0ggvtz3m8mli8.lua"))()
