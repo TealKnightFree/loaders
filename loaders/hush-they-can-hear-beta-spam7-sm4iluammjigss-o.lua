@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/hush-they-can-hear-beta-spam7-sm4iluammjigss.lua"))()
