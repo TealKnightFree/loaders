@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/awakening-grass-cutting-incremental-spam3-ocydgyw3mdqj0n.lua"))()
