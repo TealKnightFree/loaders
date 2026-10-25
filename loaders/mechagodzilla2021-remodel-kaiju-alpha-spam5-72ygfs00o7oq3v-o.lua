@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/mechagodzilla2021-remodel-kaiju-alpha-spam5-72ygfs00o7oq3v.lua"))()
