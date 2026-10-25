@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/apocalypse-rising-2-spam3-ljtzshovo5l4q0.lua"))()
