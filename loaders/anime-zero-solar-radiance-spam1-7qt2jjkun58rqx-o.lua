@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/anime-zero-solar-radiance-spam1-7qt2jjkun58rqx.lua"))()
