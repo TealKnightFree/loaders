@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/boss-fight-stevos-gem-eras-roleplay-spam3-v2iqdld5o0s5t1.lua"))()
