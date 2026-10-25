@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/shoot-for-eggs-spam5-xg302zecobh96m.lua"))()
