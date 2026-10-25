@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/demonology-spam7-ejq56ldno9v9pp.lua"))()
