@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/bike-for-egg-spam7-ghmwkfxlobfihu.lua"))()
