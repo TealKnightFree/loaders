@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/halloween-would-you-rather-style-contest-spam3-5bbnzzmin5re9m.lua"))()
