@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TealKnightFree/loaders/main/loaders/a-long-flight-sandbox-spam3-pdvovgitokj2zj.lua"))()
